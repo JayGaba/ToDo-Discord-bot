@@ -35,6 +35,12 @@ ToDo Bot is a Discord bot designed to help users manage their tasks efficiently,
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or contribute to the project.
 
-## License
+## Preview
 
-This project is licensed under the MIT License
+![image](https://github.com/JayGaba/ToDo-Discord-bot/assets/111695826/83144d71-3197-422d-9d2d-70df85aae12b)
+
+In my server i have implemented it in a way such that each user has a seperate channel where they add, show, mark tasks complete and there is a common summary channel where summary of all users is sent.
+
+![image](https://github.com/JayGaba/ToDo-Discord-bot/assets/111695826/9a3d41ba-8558-4f6e-bef1-b5db6e5153e2)
+
+
